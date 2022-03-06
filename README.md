@@ -1,0 +1,2 @@
+# covid-detection
+mini-project
